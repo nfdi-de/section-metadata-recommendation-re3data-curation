@@ -1,0 +1,19 @@
+[
+  {"name": "thema:terminologie",     "color": "8E44AD", "description": "Bezeichnung 'NFDI-Repositorium', Definitionen, Begrifflichkeit"},
+  {"name": "thema:scope",            "color": "1F77B4", "description": "Abgrenzung 'fachlich zugehörig', wer gehört dazu, Zuordnung"},
+  {"name": "thema:workflow",         "color": "117A8B", "description": "Governance, Zustaendigkeit, Nachhaltigkeit, Prozess"},
+  {"name": "thema:technik-re3data",  "color": "2E8B57", "description": "re3data-Schema, Schnittstelle, push/pull, Metriken"},
+  {"name": "thema:redaktion",        "color": "B8860B", "description": "Sprachliche und redaktionelle Klarstellungen"},
+
+  {"name": "status:eingegangen",     "color": "EDEDED", "description": "Importiert, noch nicht bearbeitet"},
+  {"name": "status:in-diskussion",   "color": "FBCA04", "description": "Wird in der Schreibgruppe diskutiert"},
+  {"name": "status:entschieden",     "color": "5319E7", "description": "Entscheidung getroffen, Umsetzung offen"},
+  {"name": "status:eingearbeitet",   "color": "1D76DB", "description": "Im Text umgesetzt (PR gemerged)"},
+
+  {"name": "ergebnis:accepted",      "color": "0E8A16", "description": "Vorschlag uebernommen"},
+  {"name": "ergebnis:rejected",      "color": "B60205", "description": "Vorschlag nicht uebernommen (mit Begruendung)"},
+  {"name": "ergebnis:partial",       "color": "D93F0B", "description": "Teilweise uebernommen"},
+  {"name": "ergebnis:deferred",      "color": "FEF2C0", "description": "Vertagt / ausserhalb dieses Releases"},
+
+  {"name": "duplicate",              "color": "CFD3D7", "description": "Doppelter Kommentar"}
+]

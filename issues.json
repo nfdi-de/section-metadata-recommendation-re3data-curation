@@ -1,0 +1,360 @@
+[
+  {
+    "wid": "1",
+    "title": "Bezeichnung „NFDI-Datenrepositorien“ politisch heikel",
+    "labels": [
+      "thema:terminologie",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-23**  \n> Bezug: „NFDI-Datenrepositorien“ · Abschnitt: _Rahmen und Grundlagen_  \n>\n> \"politisch-schwierige\" Bezeichnung\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #1</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "5",
+    "title": "„NFDI-Repositorium“: alternative Bezeichnung vorgeschlagen",
+    "labels": [
+      "thema:terminologie",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-23**  \n> Bezug: „NFDI-Repositorium“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> Auch wenn es hier die Definition für dieses Dokument gibt, wird diese Bezeichnung von den Repositorien eher negativ aufgefasst. Auch wenn es länger ist, würde ich in diesem Dokument eher von \"Repositorien, die NFDI-Konsortien oder -Communities unterstützen\" sprechen.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #5</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "6",
+    "title": "Welche Repositoriums-Definition gilt? (Verweis re3data-FAQ)",
+    "labels": [
+      "thema:terminologie",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Matthias Lange, 2026-05-12**  \n> Bezug: „Forschungsdatenrepositorium“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> Welche Definition sollte genutzt werden, die von re3data? \" re3data presents repositories for the permanent storage and access of data sets to researchers, funding bodies, publishers and scholarly institutions.\": https://www.re3data.org/faq\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #6</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "13",
+    "title": "„NFDI-Repositorien“: Bezeichnung möglichst vermeiden",
+    "labels": [
+      "thema:terminologie",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-23**  \n> Bezug: „NFDI-Repositorien“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> Bezeichnung eher vermeiden\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #13</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "23",
+    "title": "Begriff „NFDI-Mitglieder“ in Begriffsdefinitionen aufnehmen",
+    "labels": [
+      "thema:terminologie",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — David Fichtmueller (NFDI4Biodiversity), 2026-05-18**  \n> Bezug: „NFDI-Mitglieder“ · Abschnitt: _Empfehlung_  \n>\n> Der Begriff sollte oben bei den Begriffsdefinitionen noch einmal aufgeführt werden, um sicher zu stellen, dass alle das gleiche darunter verstehen.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #23</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "7",
+    "title": "„fachlich zugehörig“: Umgang mit interdisziplinären Repositorien",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Sebastian Beyvers, 2026-04-24**  \n> Bezug: „fachlich zugehörig“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> Warum \"fachlich zugehörig\" ? Was ist mit interdisziplinären Repositorien die mehrere (oder evtl. sogar alle) Fachdisziplinen abdecken ?\n>\n> _Identischer Kommentar lag doppelt vor (Word-Kommentar #11) und wurde hier zusammengeführt._\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #7</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "8",
+    "title": "Wer definiert die fachliche Zugehörigkeit?",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „von mindestens einem NFDI-Konsortium als fachlich zugehörig zu seiner wissenschaftlichen Community anerkannt wird.“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> wer genau definiert das.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #8</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "9",
+    "title": "UAG-FID-Stellungnahme: Zuordnung nur in Rücksprache mit Betreibenden",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Arnost Stanzel, 2026-05-07**  \n> Bezug: „von mindestens einem NFDI-Konsortium als fachlich zugehörig zu seiner wissenschaftlichen Community anerkannt wird.“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> Im Namen der UAG Forschungsdaten der AG Fachinformationsdienste: Wir finden es sinnvoll, wenn in re3data von NFDI-Konsortien betriebene Forschungsdatenrepositorien explizit gekennzeichnet werden und so auch auffinbar sind. Dass jedes NFDI-Konsortium einfach so Repositorien zu seiner Community zuschlagen kann, finden wir als FID, die auch FD-Repositorien betreiben, nicht so glücklich (zumal bei uns der weiter oben erwähnte Punkt interdisziplinärer Repositorien relevant ist). Eine wie auch immer geartete genormte Fächerklassifikation von Repositorien in re3data wäre wünschenswert, diese auf Basis der NFDI-Konsortien durchzuführen in unseren Augen weniger zweckdienlich. Mindestent sollte hier an der Stelle stehen, dass die Zuordnung in Rücksprache mit den jeweiligen Repositoriumsbetreibenden stattfindet.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #9</sub>",
+    "seed_comments": [
+      "**Antwort aus der Kommentierungsphase — Matthias Lange, 2026-05-12:**\n\nDem möchte ich zustimmen, in FAIRagro wird die Domänenzugehöigkeit aktuell durch einen informale Erhebung inhaltlich fachliche Domänenzuordnung betrieben. Es ist jedoch ein Vorschlag für eine Art Approval durch ein Editorial Board bestehend aus Domänenexperten, DataStewards und dem FAIRagro RDI Inventory im Gespräch."
+    ]
+  },
+  {
+    "wid": "12",
+    "title": "„Im Zweifelsfall“: wann, warum und wem gegenüber?",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „Im Zweifelsfall“ · Abschnitt: _Begriffsdefinitionen_  \n>\n> wann, warum und wem gegenüber tritt \"Zweifel\" auf?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #12</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "24",
+    "title": "Auch in-kind eingebrachte Repositorien einbeziehen? (FAIRagro)",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Matthias Lange, 2026-05-12**  \n> Bezug: „betriebene oder verantwortete NFDI-Repositorien“ · Abschnitt: _Empfehlung_  \n>\n> Meiner Ansicht nach sollten auch für die Arbeit des Konsortiums relevante Repositorien dazu gehören. Denn FAIRagro funding etwa direkt wird kein Betrieb von Fachrepositorien vorgenommen oder verantwortet.  Vielmehr über in-kind Leistungen über die Laufzeit des Konsortialvertrages mit den hier gebundenen institutionellen Partnern.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #24</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "25",
+    "title": "Definition von „verantwortet“ unklar (UAG FID)",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Eric Eggert, 2026-05-07**  \n> Bezug: „verantwortete NFDI-Repositorien“ · Abschnitt: _Empfehlung_  \n>\n> Was bedeutet hier \"verantwortet\", bzw. wann genau ist ein nach dem hier vorgeschlagenen Schema ein \"NFDI-Repo\" verantwortet durch die NFDI? (UAG Forschungsdaten der AG FID)\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #25</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "33",
+    "title": "Registrierung fachlich relevanter (nicht betriebener) Repos als Service?",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Matthias Lange, 2026-05-12**  \n> Abschnitt: _Empfehlung_ (keine Textstelle markiert)  \n>\n> Wenn es um das Registrieren von fachlich relevanten Repositorien bei re3data geht, die jedoch nicht direkt vom Konsortien betrieben oder verantwortet werden, könnte man das auch für Repositorien als Service anbieten. Die Frage wäre dabei, ob das gewollt und von den Konsortien geleistet werden kann und wie der Kontroll-/Aktualisierungsprozess genau aussehen müsste.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #33</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "35",
+    "title": "re3data-Profile existieren bereits — nur direkt betriebene Repos kennzeichnen?",
+    "labels": [
+      "thema:scope",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Arnost Stanzel, 2026-05-07**  \n> Bezug: „Gemeinsam mit re3data wird eine Kennzeichnung von NFDI-Konsortien und Kollektionen nach wissenschaftlichen Communities in re3data eingeführt.“ · Abschnitt: _Empfehlung_  \n>\n> Es gibt in re3data die Möglichkeit, Profile einzurichten, es gibt bereits eines für die Hemlholtz-Gemeinschaft und eines für die FID. Damit so etwas für Nutzende auf der Suche nach einem passenden NFDI-Repositorium Sinn macht, sollte das meiner Meinung nach aber nur auf direkt von NFDI betriebene Repos abzielen, und nicht auf alles, was fachlich zugehörig ist - da fehlt der Mehrwert für die re3data-Nutzenden.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #35</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "15",
+    "title": "Sicherstellung der Pflege, v. a. nach 2028 (NFDI4Objects)",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Tolin Jojo, 2026-05-14**  \n> Bezug: „Die regelmäßige Überprüfung und Aktualisierung dieser Angaben stellt sicher“ · Abschnitt: _Zielsetzung_  \n>\n> Kommentar von Anja Gerber (NFDI4Objects): Wie soll das sichergestellt werden, v.a. mit Blick auf nach 2028?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #15</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "16",
+    "title": "Wer initiiert und betreibt den Kuratierungs-Workflow seitens NFDI?",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „Die regelmäßige Überprüfung und Aktualisierung dieser Angaben stellt sicher,“ · Abschnitt: _Zielsetzung_  \n>\n> Unklar, wer den Workflow initiiert. re3data hat worklfows losgelöst von NFDI. Hier soll aber explizit die Qualität der Angaben von NFDI-Repositorien gefördert weerden. Wer hält dann diesen Prozess seitens NFDI am laufen?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #16</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "17",
+    "title": "Registrierungsprozess & Zuordnung zum Konsortium — Workflow unklar",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „NFDI-Repositorien sollen innerhalb von re3data explizit“ · Abschnitt: _Zielsetzung_  \n>\n> werden Repositorien im Registrierungsprozess nach ihrer Zugehörigkeit zu einem NFDI-Konsortium bzw. thematischen Zuordnung gefragt? Wie ist der Prozess, wenn sich ein Repo von sich auf bei re3data registriert. Wie wird die mögliche Verbindung zu einem Konsortium hergestellt? Wessen Aufgabe ist das und wie ist der Workflow?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #17</sub>",
+    "seed_comments": [
+      "**Antwort aus der Kommentierungsphase — David Fichtmueller (NFDI4Biodiversity), 2026-05-18:**\n\nDas haben wir uns auch gefragt. Ich könnte mir ein Model der moderierten Communities vorstellen, ähnlich wie es bei Zenodo ist. Es gibt für jedes NFDI Konsortium eine Gruppe/Community und die Administratoren davon können entscheiden, welche Repositorien zu ihrer Community gehören. Bin gespannt, wie das am Ende aussehen wird und ob es da auch noch einmal eine Feedbackphase gibt."
+    ]
+  },
+  {
+    "wid": "29",
+    "title": "„kontinuierlich“ kuratieren: wie sicherstellen? (NFDI4Objects)",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Tolin Jojo, 2026-05-14**  \n> Bezug: „kontinuierlich“ · Abschnitt: _Empfehlung_  \n>\n> Kommentar von Anja Gerber (NFDI4Objects): Wie ist das sicherzustellen?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #29</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "30",
+    "title": "Messbare Standards: Review-Zyklen, Ownership, Accountability (NFDI4Microbiota)",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Lina Junctorius, 2026-05-07**  \n> Abschnitt: _Zielsetzung_ (keine Textstelle markiert)  \n>\n> Kommentar von Anandhi Iyappan (NFDI4Microbiota, EMBL): maybe we can also add measurable standards through defined review cycles (annual metadata audits), assigning ownership and accountability factors etc.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #30</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "31",
+    "title": "Blueprint/Prozessmodell für Konsortien nötig",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „NFDI-Konsortien ordnen“ · Abschnitt: _Empfehlung_  \n>\n> Diese Aufgabe liegt zwar bei den Konsortien, aber diese benötigen einen Workflow, der die Einordnung regelmäßig vornimmt. Hier ist ein Blueprint oder ein übertragbares Prozessmodell nötig. Andernfalls, wird das vermutlich nicht gemacht. Je größer oder fachblich breiter das Konsortium, desto schwieriger umsetzbar. Hier ist Hilfestellung nötig.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #31</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "32",
+    "title": "„langfristig“ kuratieren: wie sicherstellen? (NFDI4Objects)",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Tolin Jojo, 2026-05-14**  \n> Bezug: „langfristig“ · Abschnitt: _Empfehlung_  \n>\n> Kommentar von Anja Gerber (NFDI4Objects): Wie ist das sicherzustellen?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #32</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "34",
+    "title": "Einheitliche NFDI-Markierung — wie genau (z. B. Keyword „NFDI“)?",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Volodymyr Kushnarenko, 2026-04-16**  \n> Bezug: „Gemeinsam mit re3data wird eine Kennzeichnung von NFDI-Konsortien und Kollektionen nach wissenschaftlichen Communities in re3data eingeführt.“ · Abschnitt: _Empfehlung_  \n>\n> Ich finde wichtig, dass das bei allen NFDI-Konsortien geklärt wird, wie genau diese NFDI-Markierung organisiert werden soll. Z.B. alle haben Keyword \"NFDI\" in der Keywords-Section, oder noch irgendwie anders, aber einheitlich. Dass man klar dann sehen kann, dass dieses Repo ein Teil von NFDI ist.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #34</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "41",
+    "title": "Anpassung bei Änderung der re3data-Betriebsbedingungen? (NFDI4Microbiota)",
+    "labels": [
+      "thema:workflow",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Lina Junctorius, 2026-05-07**  \n> Abschnitt: _Zielsetzung_ (keine Textstelle markiert)  \n>\n> Kommentar von Anandhi Iyappan (NFDI4Microbiota, EMBL): the document does not address on what happens if re3data operational conditions change - how do we adapt to them?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #41</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "19",
+    "title": "re3data-Schema-Anpassung nötig oder nur Webseiten-Darstellung?",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — David Fichtmueller (NFDI4Biodiversity), 2026-05-18**  \n> Bezug: „erhöht ihre Sichtbarkeit“ · Abschnitt: _Zielsetzung_  \n>\n> Ist dafür eine Anpassung des re3data Schemas notwendig, oder wird das allein über die Webseite dargestellt?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #19</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "20",
+    "title": "Qualitätsstandards — nach welchen Kriterien? (UAG FID)",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Eric Eggert, 2026-05-07**  \n> Bezug: „Qualitätsstandards“ · Abschnitt: _Zielsetzung_  \n>\n> Nach welchen Kriterien? (UAG Forschungsdaten der AG FID)\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #20</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "21",
+    "title": "Was bedeutet „endorsed by NFDI“? (UAG FID)",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Eric Eggert, 2026-05-07**  \n> Bezug: „“endorsed by NFDI”“ · Abschnitt: _Zielsetzung_  \n>\n> Was bedeutet \"endorsed\", v.a. wenn unter der vorgeschlagenen Definition (fast) jedes Repo als NFDI-Repo aufgefasst wird? (UAG Forschungsdaten der AG FID)\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #21</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "27",
+    "title": "Schema vs. Suggest-Formular — Formulierung „mit dem re3data Schema beschreiben“",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — David Fichtmueller (NFDI4Biodiversity), 2026-05-18**  \n> Bezug: „mit dem re3data Schema (https://www.re3data.org/schema) zu“ · Abschnitt: _Empfehlung_  \n>\n> gibt es denn eine technische Schnittstelle, die Daten direkt im Schema zu editieren? Mit der Suggest-Option gibt es bereits ein gutes Formular, die Daten strukturiert einzugeben, es gibt aus meiner Sicht keine Notwendigkeit, die im Schema zu liefern/beschreiben. Bessere Formulierung wäre daher \"mit den im re3data Schema beschriebenen Metadatenfeldern zu beschreiben, und kontinuierlich zu kuratieren.\"\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #27</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "28",
+    "title": "Aktualisierungsmodell: push-to-re3data oder pull/Endpoint?",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — David Linke, 2026-05-18**  \n> Bezug: „und kontinuierlich zu kuratieren.“ · Abschnitt: _Empfehlung_  \n>\n> Gibt es zum \"wie\" auch Empfehlungen? z.B. Kann re3data automatisch einen Endpoint /URL im Repo abfragen, um Aktualisierungen zu erhalten (\"pull\")? ...oder ist das Modell nur push-to-re3data?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #28</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "36",
+    "title": "Adoptions-/Qualitätsmetriken ergänzen (NFDI4Microbiota)",
+    "labels": [
+      "thema:technik-re3data",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Lina Junctorius, 2026-05-07**  \n> Abschnitt: _Hintergrund und Motivation_ (keine Textstelle markiert)  \n>\n> Kommentar von Anandhi Iyappan (NFDI4Microbiota, EMBL): Additional point - in addition to the re3data's position, i feel we should also include some stats such as citation counts to show re3 data's adoption rate across all disciplines. Also additional metrics on NFDI discoverability gaps (eg: metadata completeness score)\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #36</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "3",
+    "title": "Wortwahl „Kennzeichnung“ vs. „Nachweis“ vs. „Registrierung“",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Sebastian Boehm, 2026-05-05**  \n> Bezug: „r Kennzeichnung“ · Abschnitt: _Rahmen und Grundlagen_  \n>\n> \"zur Kennzeichnung\" klingt adäquater als \"zum Nachweis\", wobei \"zur Registrierung\" vlt noch besser wäre? Würde ich hier gerne zur Diskussion stellen.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #3</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "4",
+    "title": "„den Nachweis von“ — verwirrend, streichen?",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Sebastian Boehm, 2026-05-05**  \n> Abschnitt: _Zielsetzung_ (keine Textstelle markiert)  \n>\n> der Zusatz von \"den Nachweis von\" führt hier meiner Meinung nach zu keiner Verbesserung der Verständlichkeit, sondern führt eher zu potentieller Verwirrung.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #4</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "14",
+    "title": "Fehlender Satzbezug bei „Daher“",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „Daher“ · Abschnitt: _Hintergrund und Motivation_  \n>\n> Bezug zum vorherigen Satz ist nicht gegeben.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #14</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "22",
+    "title": "Vorschlag „Sichtbarmachung“ statt „Nachweis“",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Sebastian Boehm, 2026-05-05**  \n> Bezug: „den Nachweis“ · Abschnitt: _Zielsetzung_  \n>\n> ich würde \"die Sichtbarmachung\" oder ähnliches vorschlagen.\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #22</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "26",
+    "title": "„registrieren“ statt „nachweisen“?",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Sebastian Boehm, 2026-05-05**  \n> Bezug: „nachzuweisen“ · Abschnitt: _Empfehlung_  \n>\n> würde \"registrieren\" nicht besser passen?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #26</sub>",
+    "seed_comments": []
+  },
+  {
+    "wid": "37",
+    "title": "Unklarer/kaputter Satz unter „Erwartete Wirkung“",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „Die Einhaltung dieser Empfehlung wird die Auffindbarkeit von,, das Vertrauen in und die Nutzung von Forschungsdaten-Repositorien erheblich verbessern.“ · Abschnitt: _Erwartete Wirkung_  \n>\n> unverständlicher Satz: Was bedeutet: \"die EInhaltung .. wird die Auffindbarkeit von Vertrauen .. verbessern?\"\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #37</sub>",
+    "seed_comments": [
+      "**Antwort aus der Kommentierungsphase — David Fichtmueller (NFDI4Biodiversity), 2026-05-18:**\n\nich glaube gemeint war die \"wird die Auffindbarkeit von, das Vertrauen in und die Nutzung von ...\""
+    ]
+  },
+  {
+    "wid": "39",
+    "title": "„qualitativ hochwertiger Katalog“ — Bedeutung präzisieren",
+    "labels": [
+      "thema:redaktion",
+      "status:eingegangen"
+    ],
+    "body": "> **Ursprünglicher Kommentar — Ivonne Anders, 2026-04-22**  \n> Bezug: „qualitativ hochwertigen Katalog“ · Abschnitt: _Erwartete Wirkung_  \n>\n> was ist damit gemeint? Gute Metadaten?\n\n---\n\n**Diskussion der Schreibgruppe:** _(hier dokumentieren)_\n\n**Entscheidung:** _(accepted / rejected / partial / deferred + Begründung; danach Label `ergebnis:*` setzen)_\n\n**Umgesetzt in:** _(PR-Referenz, z. B. #NN)_\n\n<sub>Aus der Community-Kommentierungsphase (bis 18.05.2026) · Word-Kommentar #39</sub>",
+    "seed_comments": [
+      "**Antwort aus der Kommentierungsphase — David Linke, 2026-05-18:**\n\n\"kuratierter Katalog\" ist allein auch schon nützlich."
+    ]
+  }
+]

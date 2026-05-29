@@ -6,6 +6,9 @@ Community-Kommentierungsphase (bis 18. Mai 2026). Ziel ist ein für jeden
 einzelnen Kommentar nachvollziehbarer Weg von **Beitrag → Diskussion →
 Entscheidung → Textänderung**.
 
+Link auf das originäre Google Document mit Kommentaren zur Rückwärtsreferenz
+[Google Document](https://docs.google.com/document/d/1KkEamCvDd1k_5LoOGG9Vr1n9OYsAjHwJ/edit)
+
 
 # Anleitung für die Schreibgruppe
 

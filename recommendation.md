@@ -24,7 +24,7 @@ Dieses Dokument richtet sich an Mitglieder des Vereins Nationale Forschungsdaten
 
 **NFDI-Konsortium:** Ein *NFDI-Konsortium* ist ein Konsortium der NFDI im Sinne der NFDI-Vereinssatzung.
 
-**NFDI-Repositorium:** Ein *NFDI-Repositorium* ist ein Forschungsdatenrepositorium, das von einem oder mehreren NFDI-Mitgliedern betrieben wird und von mindestens einem NFDI-Konsortium als für sein wissenschaftliche Community relevant anerkannt wird, oder ein sonstiges Repositorium, das von mindestens einem NFDI-Konsortium als für sein wissenschaftliche Community relevant anerkannt wird. Im Zweifelsfall entscheiden die jeweiligen Konsortien über die fachliche Zuordnung.
+**NFDI-Repositorium:** Im Kontext dieses Standards ist ein Forschungsdaten-Repositorium ist eine nachhaltige Informationsinfrastruktur, die die langfristige Speicherung und den Zugriff auf Forschungsdaten ermöglicht. Ein *NFDI-Repositorium* ist ein Forschungsdatenrepositorium, das von einem oder mehreren NFDI-Mitgliedern betrieben wird und von mindestens einem NFDI-Konsortium als für sein wissenschaftliche Community relevant anerkannt wird, oder ein sonstiges Repositorium, das von mindestens einem NFDI-Konsortium als für sein wissenschaftliche Community relevant anerkannt wird. Im Zweifelsfall entscheiden die jeweiligen Konsortien über die fachliche Zuordnung. 
 
 ## Hintergrund und Motivation
 

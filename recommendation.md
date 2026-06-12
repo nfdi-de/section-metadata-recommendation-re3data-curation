@@ -45,7 +45,7 @@ Das Vorgehen unterstützt die Bestrebungen von NFDI zum Aufbau eines Dienstportf
 Aus den genannten Zielsetzungen leiten sich nachfolgende Empfehlungen ab:
 
 - Gemeinsam mit re3data wird eine Kennzeichnung von NFDI-Repositorien nach wissenschaftlichen Communities in re3data sowie zugehörige Workflows zur Vergabe der Kennzeichnung eingeführt
-- *NFDI-Mitglieder* sind angehalten, von ihnen betriebene oder verantwortete NFDI-Repositorien in re3data nachzuweisen, mit dem re3data Schema (https://www.re3data.org/schema) zu beschreiben und kontinuierlich zu kuratieren.
+- *NFDI-Mitglieder* sind angehalten, von ihnen betriebene, sowie inhaltlich oder organisatorisch betreute NFDI-Repositorien in re3data nachzuweisen, mit dem re3data Schema (https://www.re3data.org/schema) zu beschreiben und kontinuierlich zu kuratieren.
 - *NFDI-Konsortien* ordnen in re3data nachgewiesene NFDI-Repositorien ihren wissenschaftlichen Communities zu und kuratieren diese Zuordnung langfristig.
 
 ## Erwartete Wirkung

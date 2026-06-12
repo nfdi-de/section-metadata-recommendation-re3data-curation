@@ -36,7 +36,7 @@ Die Empfehlung verfolgt zwei zentrale Ziele. Zum einen soll die Auffindbarkeit u
 
 Die Empfehlung zielt damit auf eine konsistente und verlässliche Qualität der in re3data hinterlegten Informationen zu *NFDI-Repositorien* ab. Hierzu gehört eine vollständige und aktuelle Beschreibung, insbesondere verwendeter Standards in den Repositorien. Die regelmäßige Überprüfung und Aktualisierung dieser Angaben stellt sicher, dass die Einträge den tatsächlichen Gegebenheiten entsprechen und den geltenden Qualitätsrichtlinien von re3data genügen. Auf diese Weise werden Transparenz und Nachvollziehbarkeit gestärkt und das Vertrauen in die beschriebenen Infrastrukturen nachhaltig erhöht.
 
-*NFDI-Repositorien* sollen innerhalb von re3data explizit gekennzeichnet werden. Dies erhöht ihre Sichtbarkeit und unterstützt perspektivisch die Etablierung von Qualitätsstandards im Sinne von „endorsed by NFDI".
+*NFDI-Repositorien* sollen innerhalb von re3data explizit gekennzeichnet werden. Dies erhöht ihre Sichtbarkeit und unterstützt zukünftige Maßnahmen zur Etablierung von Qualitätsstandards im Sinne von “endorsed by NFDI".
 
 Das Vorgehen unterstützt die Bestrebungen von NFDI zum Aufbau eines Dienstportfolios durch den Nachweis von *NFDI-Repositorien*.
 

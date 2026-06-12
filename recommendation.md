@@ -20,7 +20,7 @@ Dieses Dokument richtet sich an Mitglieder des Vereins Nationale Forschungsdaten
 
 ## Begriffsdefinitionen
 
-**NFDI-Mitglied:** Institutionen, die Mitglied im NFDI e.V. sind.
+**NFDI-Mitglied:** Institution, die Mitglied im NFDI e.V. ist.
 
 **NFDI-Konsortium:** Ein *NFDI-Konsortium* ist ein Konsortium der NFDI im Sinne der NFDI-Vereinssatzung.
 

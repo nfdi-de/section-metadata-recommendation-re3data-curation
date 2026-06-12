@@ -49,7 +49,7 @@ Aus den genannten Zielsetzungen leiten sich nachfolgende Empfehlungen ab:
 
 ## Erwartete Wirkung
 
-Die Einhaltung dieser Empfehlung wird die Auffindbarkeit von, das Vertrauen in und die Nutzung von Forschungsdaten-Repositorien erheblich verbessern. Der Nachweis und die Kennzeichnung von *NFDI-Repositorien* stellen die Ergebnisse der NFDI, der *NFDI-Konsortien* und der deutschen Forschungsdatenlandschaft eindrücklich unter Beweis und erleichtern es Interessierten, vertrauenswürdige und qualitätsgesicherte Repositorien zu finden und zu nutzen.
+Die Einhaltung dieser Empfehlung wird für Forschungsdaten-Repositorien folgende Faktoren erheblich verbessern: (1) ihre Auffindbarkeit, (2) das Vertrauen in sie und (3) ihre Nutzung. Der Nachweis und die Kennzeichnung von *NFDI-Repositorien* stellen die Ergebnisse der NFDI, der *NFDI-Konsortien* und der deutschen Forschungsdatenlandschaft eindrücklich unter Beweis und erleichtern es Interessierten, vertrauenswürdige und qualitätsgesicherte Repositorien zu finden und zu nutzen.
 
 Im Ergebnis erhält NFDI in Zusammenarbeit mit re3data einen qualitativ hochwertigen Katalog von *NFDI-Repositorien*, der die FAIRe Kultur von Open Science innerhalb und außerhalb der NFDI fördert.
 

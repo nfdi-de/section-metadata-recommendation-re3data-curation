@@ -26,10 +26,6 @@ sein.
 - **Label** („Etikett"): farbige Schlagworte, die an einem Issue kleben und den
   Stand anzeigen (z. B. „wird gerade diskutiert"). Labels setzt man mit wenigen
   Klicks.
-- **Pull Request** („Änderungsvorschlag", kurz *PR*): So ändert man den Text der
-  Empfehlung. Wichtig zum Verständnis: Eine Änderung wird **nicht sofort**
-  übernommen, sondern erst vorgeschlagen, von einer zweiten Person angesehen und
-  dann bewusst übernommen. Man kann dabei nichts kaputt machen.
 
 ## Der Arbeitsablauf Schritt für Schritt
 
@@ -97,25 +93,11 @@ Das geschieht komplett im Browser:
 2. Klick oben rechts auf das **Stift-Symbol** („Edit this file").
 3. Ändere den Text an der betreffenden Stelle.
 4. Klick oben rechts auf **„Commit changes…"**. Es öffnet sich ein Fenster.
-5. **Wichtig:** Wähle die Option **„Create a new branch for this commit and start
-   a pull request"** (nicht „Commit directly"). Den vorgeschlagenen Namen kannst
-   du lassen. Klick **„Propose changes"**.
-6. Auf der nächsten Seite gibt es ein großes Textfeld. Schreib dort hinein, auf
+5. Auf der nächsten Seite gibt es ein großes Textfeld. Schreib dort hinein, auf
    welches Issue sich die Änderung bezieht, in der Form **`Closes #12`**
    (die Zahl ist die Nummer des Issues — sie steht im Issue-Titel hinter dem `#`).
    Das sorgt dafür, dass sich das Issue später automatisch schließt.
-7. Klick **„Create pull request"**.
-
-Damit ist die Änderung **vorgeschlagen**, aber noch nicht übernommen.
-
-8. **Eine zweite Person** schaut den Vorschlag an (im Reiter **„Pull requests"**,
-   unter **„Files changed"** sieht man die Änderung grün/rot markiert) und klickt
-   dann oben **„Merge pull request"** → **„Confirm merge"**.
-
-Beim Mergen wird die Änderung in das Dokument übernommen und das verknüpfte Issue
-schließt sich von selbst.
-
-### Schritt 7 — Abschließen
+6. Klick **„Commit Changes"**.
 
 Setz am Issue (falls es nicht ohnehin automatisch geschlossen wurde) das Etikett
 **`status:eingearbeitet`**. Fertig — dieser Kommentar ist vollständig und
@@ -151,15 +133,6 @@ nachvollziehbar erledigt.
 | `thema:technik-re3data` | re3data-Schema, Schnittstelle, Metriken |
 | `thema:redaktion` | sprachliche und redaktionelle Klarstellungen |
 
-## Praktische Hinweise
-
-- **Eine Person ändert, eine andere prüft.** Niemand merged den eigenen Pull
-  Request allein — das Vier-Augen-Prinzip ist Teil der Qualitätssicherung.
-- **Rein sprachliche Punkte sammeln.** Die Kommentare mit `thema:redaktion`
-  müssen nicht einzeln geändert werden. Eine Person kann mehrere davon in *einem*
-  Pull Request zusammenfassen und dort alle nennen: `Closes #29, #30, #31`.
-- **Zum Üben:** Geht als Gruppe einen einfachen Kommentar einmal gemeinsam von
-  Schritt 1 bis 7 durch. Danach sitzt der Ablauf bei allen.
 
 ---
 
@@ -168,8 +141,6 @@ nachvollziehbar erledigt.
 Das Repository ist während der Schreibphase privat. Zum Abschluss:
 
 1. Repository auf **public** schalten.
-2. Vorher in **Zenodo** die GitHub-Integration für dieses Repository aktivieren.
-3. Einen **Release** (Tag `v3.1`) anlegen — Zenodo vergibt automatisch eine DOI.
 
 Der finale Stand von `recommendation.md`, die geschlossenen Issues und die
 Entscheidungsübersicht bilden zusammen den zitierbaren Nachweis der Reaktion auf
